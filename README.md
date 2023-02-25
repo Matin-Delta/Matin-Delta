@@ -1,5 +1,6 @@
 # 💫About Me :
-🌟Matin Almasi , a Full Stack Web Developer, Crypto Trader With 4 years of work experience
+🌟Matin Almasi , a Full Stack Web Developer & Crypto Trader 
+With 4 years of work experience
 
 # 💠Discord :
 [![Discord Presence](https://lanyard.cnrad.dev/api/166993816467800064)](https://discord.com/users/166993816467800064)
